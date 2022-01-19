@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Khanyiso Tshwaku",
+      "title": "Bavuma laments lack of Test cricket as India take first Test by scruff of the neck",
+      "description": "Proteas batter Temba Bavuma admitted that a lack of Test match sharpness contributed to their slow start in the first Test against India at SuperSport Park.",
+      "url": "https://www.news24.com/sport/Cricket/Proteas/bavuma-laments-lack-of-test-cricket-as-india-take-first-test-by-scruff-of-the-neck-20211228",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/1078/4db73dba0d2d4a3784c81668741c054d.jpg",
+      "publishedAt": "2021-12-28T20:24:58+00:00",
+      "content": "<ul><li>Proteas batter Temba Bavuma said a lack of Test match sharpness had afflicted them in the ongoing game against India.</li><li>The first Test against India is South Africa's first since their … [+2628 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "Five stages of grief with England",
+      "description": "England's latest Ashes defeat has caused the nation's fans to go through the all-too-familiar stages of cricketing grief, writes BBC Sport's Stephan Shemilt.",
+      "url": "http://www.bbc.co.uk/sport/cricket/59808298",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11AE6/production/_122522427_joerootandjosbuttler.jpg",
+      "publishedAt": "2021-12-28T20:22:26.4464873Z",
+      "content": "In affectionate remembrance of English cricket, which died (again) in Melbourne on 28 December 2021.\r\nDeeply lamented by a large circle of sorrowing friends and acquaintances. RIP.\r\nThe body will be … [+6825 chars]"
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": null,
+      "title": "BJP’s quest for star power in Punjab leads to ex-cricketer Dinesh Mongia, once a 'fixing-accused'",
+      "description": "Mongia played for India in 2003 World Cup, but match-fixing allegations tainted his career. Two Congress MLAs Fateh Jung Bajwa and Balwinder Singh Laddi also join BJP.",
+      "url": "https://theprint.in/politics/bjps-quest-for-star-power-in-punjab-leads-to-ex-cricketer-dinesh-mongia-once-a-fixing-accused/789858/",
+      "urlToImage": "https://static.theprint.in/wp-content/uploads/2021/12/mongia-final.jpg",
+      "publishedAt": "2021-12-28T12:05:42+00:00",
+      "content": "New Delhi: More than 13 years after he played his last match for India, former cricketer Dinesh Mongia, who was once under the scanner for his alleged involvement in a fixing scandal, is all set for … [+4184 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "England never stood a chance - Agnew",
+      "description": "The structure of domestic cricket and a lack of preparation left England primed for another Ashes humbling, says Jonathan Agnew.",
+      "url": "http://www.bbc.co.uk/sport/cricket/59808295",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/3086/production/_122522421_australiacelebrate.jpg",
+      "publishedAt": "2021-12-28T09:37:24.9773291Z",
+      "content": "Realistically, England never stood a chance.\r\nLike plenty of others, I thought there were a number of factors going into this Ashes series that would level the playing field: the disrupted preparatio… [+5094 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
